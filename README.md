@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**HungryBurger/HungryBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce
+```
+좋은 Back End 개발자가 되고 싶은 JHJ입니다.
+문의 사항은 hjjooace24@gmail.com으로 문의 주세요
+```
 
-Here are some ideas to get you started:
+## Interesting
+- JAVA
+- JPA
+- SpringBoot
+- Redis
+- Cloud
+- AWS(EC2, S3)
+- Kubernetics
+- Docker
+- Pyhton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
